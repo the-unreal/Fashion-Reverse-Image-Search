@@ -9,4 +9,4 @@ Used Convolutional Neural Networks for feature extraction and Auto-Encoders for 
 
 Run the execute.py file and as the parameter, pass the path of the image you want to search.
 
-python execute.py --image {file _path}
+python execute.py --image {file_path}
